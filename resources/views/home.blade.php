@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    You are logged in! Go to <a style='color:blue' href="/btu">my page</a>
                 </div>
             </div>
         </div>
