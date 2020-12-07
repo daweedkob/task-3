@@ -2,9 +2,7 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="en-GB"> <![endif]-->
-<!--[if IE 9]> <html class="no-js lt-ie10" lang="en-GB"> <![endif]-->
-<!--[if gt IE 9]><!--> <html class="no-js" lang="en-GB"> <!--<![endif]-->
+<html class="no-js" lang="en-GB">
 
 <head>
     <meta charset="utf-8">
@@ -27,16 +25,12 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
 
-    <!-- <link rel="stylesheet" href="https://toyfight.co/wp-content/themes/toybox/css/main.min.css" /> -->
     <link rel="stylesheet" href="https://toyfight.co/wp-content/themes/toybox/css/main.css" />
-    <!-- <link rel="stylesheet" href="https://toyfight.co/wp-content/themes/toybox/css/header.min.css" /> -->
     <link rel="stylesheet" href="https://toyfight.co/wp-content/themes/toybox/css/header.css" />
     <script src="https://toyfight.co/wp-content/themes/toybox/js/modernizr-custom.js"></script>
 
 
-<!-- All in One SEO Pack 2.10.1 by Michael Torbert of Semper Fi Web Design[345,364] -->
 <link rel="canonical" href="https://toyfight.co/who/" />
-<!-- /all in one seo pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/toyfight.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.16"}};
