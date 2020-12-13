@@ -262,7 +262,7 @@
 				<th>{{ $user->name }}</th>
 				<th>{{ $user->gender }}</th>
 				<th>{{ $user->email }}</th>
-				<th>{{ $user->name }}</th>
+				<th>{{ $user->date }}</th>
 
 			</tbody>
 
